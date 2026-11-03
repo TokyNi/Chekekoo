@@ -1,0 +1,1 @@
+"""Checkeko backend application."""
